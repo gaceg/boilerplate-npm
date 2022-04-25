@@ -1,6 +1,6 @@
 {
 	"name": "fcc-learn-npm-package-json",
-	"author": "gaceg",
+	"author": "gaceg 123",
 	"dependencies": {
 		"express": "^4.14.0"
 	},
